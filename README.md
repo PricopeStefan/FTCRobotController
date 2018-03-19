@@ -2,8 +2,11 @@
 
 ~Includes both autonomous and TeleOp programs.
 
-Made by:
+<b>Made by</b>:
+
 	~ https://github.com/georgerc 
+
 	~ https://github.com/Sleshwave
+
 	~ Botez Stefan
 	
