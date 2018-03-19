@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\FTC\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\menu\\main_menu.xml",
+        "source": "E:\\FTC\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "E:\\FTC\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\menu\\menu_server.xml",
+        "source": "E:\\FTC\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\Blocks-release\\res\\menu\\menu_server.xml"
+    },
+    {
+        "merged": "E:\\FTC\\ftc_app-master - Copy\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\menu\\main_menu.xml",
+        "source": "E:\\FTC\\ftc_app-master - Copy\\FtcRobotController\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "E:\\FTC\\ftc_app-master - Copy\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\menu\\menu_server.xml",
+        "source": "E:\\FTC\\ftc_app-master - Copy\\FtcRobotController\\build\\intermediates\\exploded-aar\\Blocks-release\\res\\menu\\menu_server.xml"
+    },
+    {
+        "merged": "E:\\FTC\\ftc_app-master - Copy\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\menu\\ftc_robot_controller.xml",
+        "source": "E:\\FTC\\ftc_app-master - Copy\\FtcRobotController\\src\\main\\res\\menu\\ftc_robot_controller.xml"
+    },
+    {
+        "merged": "E:\\FTC\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\menu\\ftc_robot_controller.xml",
+        "source": "E:\\FTC\\ftc_app-master\\FtcRobotController\\src\\main\\res\\menu\\ftc_robot_controller.xml"
+    }
+]
